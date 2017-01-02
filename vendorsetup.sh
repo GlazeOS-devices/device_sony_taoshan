@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo lineage_taoshan-eng
-add_lunch_combo lineage_taoshan-userdebug
+add_lunch_combo glaze_taoshan-eng
+add_lunch_combo glaze_taoshan-userdebug
